@@ -2,7 +2,7 @@
 
 ## Hello, I'm Popit
 <!--🔴🔺🔻🧧❗❓⭕🍎🍒😡❤️-->
-I am a student.<br> I really like dotNET platform.<br>My favourite language is C#.
+🔻 I am a student.<br> 🔻 I really like dotNET platform.<br>🔻 My favourite language is C#.
 ##
 <br/>
 
