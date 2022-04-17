@@ -1,22 +1,6 @@
 <img src = "https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/12%20(1).jpg?raw=true">
 
 ## Hello, I'm Popit
-
-<style>
-h2 
-{ 
-    color: darkred;
-    font-weight: bold;
-}
-
-h3 
-{
-color: darkred;
-font-size: 20px;
-font-weight: normal;
-}
-</style>
-
 <!--🔴🔺🔻🧧❗❓⭕🍎🍒😡❤️-->
 I am a student.<br> I really like dotNET platform.<br>My favourite language is C#.
 ##
