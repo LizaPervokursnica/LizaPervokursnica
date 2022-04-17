@@ -19,4 +19,11 @@
 ### Languages and Tools:
 
 <a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/c-sharp.png?raw=true" alt="С#" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/html.png?raw=true" alt="tensorflow" height="42px"/> </a> 
+
+<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/html.png?raw=true" alt="tensorflow" height="42px"/> </a> 
+
+<img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/visual-studio.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+
+<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/web.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+
+<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a>
