@@ -26,8 +26,6 @@
 
 <a href="https://docs.microsoft.com/ru-ru/aspnet/core/blazor/?view=aspnetcore-6.0" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/web.png?raw=true" alt="tensorflow" height="40px"/> </a> 
 
-<a href="https://www.microsoft.com/ru-ru/software-download/windows11" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a> 
-
 
 <br>
 <br>
