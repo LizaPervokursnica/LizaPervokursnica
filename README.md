@@ -8,7 +8,7 @@ I am a student.<br> I really like dotNET platform.<br>My favourite language is C
 
 <!-- <img align="right" alt="GIF" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/898eec7879860ad13ed3e387adfce2f9.gif?raw=true" width="360px"/> -->
 
-<img align="right" alt="GIF" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/24545f9a8169fbe62141bc338d91ad4f.gif?raw=true" width="340px"/>
+<img align="right" alt="GIF" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/898eec7879860ad13ed3e387adfce2f9.gif?raw=true" width="340px"/>
   
 ###  More About Me:
 
