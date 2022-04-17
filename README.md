@@ -22,11 +22,11 @@
 
 <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/html.png?raw=true" alt="tensorflow" height="42px"/> </a> 
 
-<img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/visual-studio.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+<a href = "https://visualstudio.microsoft.com/ru/"><img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/visual-studio.png?raw=true" alt="tensorflow" height="40px"/> </a> 
 
-<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/web.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+<a href="https://docs.microsoft.com/ru-ru/aspnet/core/blazor/?view=aspnetcore-6.0" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/web.png?raw=true" alt="tensorflow" height="40px"/> </a> 
 
-<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+<a href="https://www.microsoft.com/ru-ru/software-download/windows11" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a> 
 
 
 <br>
