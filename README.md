@@ -26,4 +26,12 @@
 
 <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/web.png?raw=true" alt="tensorflow" height="40px"/> </a> 
 
-<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a>
+<a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"> <img align="left" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/icons/windows.png?raw=true" alt="tensorflow" height="40px"/> </a> 
+
+
+<br>
+<br>
+<br>
+
+### My Projects
+<a href="https://github.com/LizaPervokursnica/Cursovaya" target="_blank"> <img alt="artistify" src="https://github.com/LizaPervokursnica/LizaPervokursnica/blob/main/assets/images/hotelOWO.png?raw=true" height="68" align="left"> </a>
